@@ -1,0 +1,2 @@
+# genshinconfig
+REPOSITORY OPENBULLET
