@@ -1,2 +1,4 @@
-# genshinconfig
+# CONTACT t.me/xnggx
+
+
 REPOSITORY OPENBULLET
